@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Cover.png" alt="Stack ELK via Docker" width="60%">
+  <img src="Cover.png" alt="Stack ELK via Docker" width="50%">
 </p>
 
 # 📦 Déploiement de la stack ELK avec collecte de données via API Amazon
